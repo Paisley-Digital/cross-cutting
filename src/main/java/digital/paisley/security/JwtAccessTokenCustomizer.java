@@ -104,5 +104,4 @@ public class JwtAccessTokenCustomizer extends DefaultAccessTokenConverter implem
         }
 
     }
-
 }
